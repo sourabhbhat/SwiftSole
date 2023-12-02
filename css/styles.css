@@ -1,11 +1,10 @@
 /* Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500&family=Space+Grotesk&display=swap');
 /* Color Variables */
 :root {
   --white: #fff;
   --black: #222;
-  --green: #6cbe02;
+  --green: #bf0603;
   --grey1: #f0f0f0;
   --grey2: #e9d7d3;
 }
@@ -25,7 +24,7 @@ html {
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   font-size: 1.6rem;
   background-color: var(--white);
   color: var(--black);
@@ -1090,7 +1089,7 @@ footer .row {
 }
 
 .all-products .top select {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   width: 20rem;
   padding: 1rem;
   border: 1px solid #ccc;
@@ -1271,7 +1270,7 @@ th:last-child {
 }
 
 .product-detail .right select {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
   width: 20rem;
   padding: 0.7rem;
   border: 1px solid #ccc;
