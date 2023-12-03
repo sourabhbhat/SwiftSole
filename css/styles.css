@@ -595,7 +595,11 @@ Hero Media Query
   }
 
   .product-thumb img {
-    height: 20rem;
+    height: 10rem;
+    width: auto;
+    position: relative;
+    right: 3%;
+    
   }
 
   .product-item {
