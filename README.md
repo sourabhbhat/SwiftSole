@@ -48,4 +48,5 @@ Welcome to the SwiftSole Website! This is a full-fledged e-commerce website deve
 
 1. Clone the repository.
    ```bash
+   git clone git@github.com:sourabhbhat/SwiftSole.git
    
